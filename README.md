@@ -1,7 +1,7 @@
 # Liuren Divination System
 
 <div align="right">
-  [中文](https://laddzhao.github.io/liuren-divination-system/)
+  https://laddzhao.github.io/liuren-divination-system/)](https://github.com/laddzhao/liuren-divination-system/blob/main/READMECN.md
 </div>
 
 ## 🌐 Live Demo
