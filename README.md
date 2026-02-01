@@ -54,13 +54,6 @@ The system allows users to:
 - Real-time calculations
 - Intuitive navigation and learning flow
 
-## 🚀 Quick Start
-
-### Option 1: Live Demo
-Visit the live application: [https://laddzhao.github.io/liuren-divination-system/](https://laddzhao.github.io/liuren-divination-system/)
-
-### Option 2: Local Development
-
 1. **Clone the repository**
    ```bash
    git clone https://github.com/laddzhao/liuren-divination-system.git
