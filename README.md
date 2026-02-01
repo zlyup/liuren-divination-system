@@ -1,6 +1,6 @@
 # Liuren Divination System
 
-**[CN 中文]()**
+**[CN 中文](https://github.com/laddzhao/liuren-divination-system/blob/main/READMECN.md)**
 
 <div id="english-content">
 
