@@ -1,5 +1,8 @@
 # Liuren Divination System
 
+<div align="right">
+  <button href="https://github.com/laddzhao/liuren-divination-system/edit/main/README.md">🇨🇳 中文</button>
+</div>
 
 ## 🌐 Live Demo
 **[Click to Experience](https://laddzhao.github.io/liuren-divination-system/)**
