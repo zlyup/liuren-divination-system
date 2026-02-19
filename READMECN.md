@@ -1,5 +1,5 @@
 ## 🌐 在线演示
-**[点击体验](https://laddzhao.github.io/liuren-divination-system/)**
+**[点击体验](https://zlyup.github.io/liuren-divination-system/)**
 
 ## 📖 简介
 小六壬是中国传统占卜方法，通过掌上六个固定位置，基于时间和直觉分析事态。本项目提供了一个现代化的网络实现。
